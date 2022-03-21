@@ -1,7 +1,7 @@
 name: "info"
 output_dir: ../docs
 navbar:
-  title: "info"
+  title: "Karan S. Shakya"
   left:
   - text: Home
     href: index.html
